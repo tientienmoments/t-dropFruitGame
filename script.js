@@ -1,5 +1,6 @@
+
 let mycanvas=document.getElementById("myCanvas");
-	let ctx=mycanvas.getContext('2d');
+let ctx=mycanvas.getContext('2d');
 //set vi tri cho nhan vat 1	  
 	let bx=100,	by=360;
 	let hx=bx-54, hy=300;
